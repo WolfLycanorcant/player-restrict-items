@@ -1,0 +1,13 @@
+{
+  "name": "player-restrict-items",
+  "title": "Player Restrict Items",
+  "description": "Disables right-click functionality and hides edit buttons for players.",
+  "version": "1.0.0",
+  "author": "Master Wolf",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "systems": ["dnd5e"],
+  "esmodules": ["scripts/player-restrict-items.js"],
+  "styles": [],
+  "packs": []
+}
